@@ -1,0 +1,7 @@
+Delaunay/Voronoï triangulation algorithm by Paul Chew
+http://www.cs.cornell.edu/home/chew/Delaunay.html
+
+To launch :
+mvn package
+java -cp target/delaunay-1.0.jar delaunay.DelaunayAp
+
